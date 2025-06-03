@@ -23,15 +23,15 @@
 - Conhecimento em **processos de análise de sistemas**, com foco na coleta de requisitos, modelagem de processos e documentação, garantindo que as soluções atendam às necessidades do usuário final  
 - Habilidade para trabalhar com times multidisciplinares, facilitando a comunicação entre desenvolvedores, stakeholders e clientes para entregar soluções eficientes  
 - Familiaridade com ferramentas como **Jira**, **Trello** e **Confluence** para gestão de tarefas e acompanhamento de projetos
-
+  
 ---
 
 ### 🧑‍🏫 Cursos Realizados – Cisco Networking Academy
-- **Introduction to Networks**  
-- **Switching, Routing, and Wireless Essentials**  
-- **Network Security Basics**  
-- **Cybersecurity Essentials**  
-- **Introduction to Cybersecurity**
+- **Introdução a Redes**  
+- **Comutação, Roteamento e Redes Sem Fio**  
+- **Noções Básicas de Segurança de Redes**  
+- **Fundamentos de Cibersegurança**  
+- **Introdução à Cibersegurança**
 
 ---
 
