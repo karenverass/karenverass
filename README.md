@@ -47,6 +47,12 @@
 
 ---
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karenverass&layout=compact&theme=dracula" width="400" alt="Linguagens mais usadas">
+</div>
+
+---
+
 ### 📫 Como me encontrar
 - 🌐 [LinkedIn](https://www.linkedin.com/in/karen-veras-475111232/)  
 - 📧 karenveraspi@gmail.com
